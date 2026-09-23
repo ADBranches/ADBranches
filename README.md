@@ -1,6 +1,6 @@
 # Hi, I'm Edwin Kambale 👋
 
-Full-Stack Developer | Cybersecurity Enthusiast | Software Engineering Student
+Full-Stack Developer | Cybersecurity Enthusiast | Software Engineering
 
 I am passionate about building secure, scalable, and user-focused software solutions. My interests span full-stack web development, cybersecurity, networking, system administration, and secure software engineering. I enjoy solving real-world problems through technology while continuously learning and improving my technical skills.
 
